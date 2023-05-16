@@ -2,7 +2,7 @@
   "name": "css-2-tailwindcss",
   "displayName": "Convert CSS to Tailwindcss",
   "description": "Convert CSS to Tailwindcss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "hunghg255",
   "engines": {
     "vscode": "^1.78.0"
@@ -28,7 +28,7 @@
         "key": "ctrl+shift+h",
         "mac": "ctrl+shift+h"
       }
-  ]
+    ]
   },
   "scripts": {
     "vscode:prepublish": "npm run package",
@@ -58,6 +58,6 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "css2tailwind": "^1.0.1"
+    "css2tailwind": "^1.0.3"
   }
 }
