@@ -1,6 +1,6 @@
 # Convert CSS to Tailwindcss
 
-![Demo](https://res.cloudinary.com/hunghg255/image/upload/v1684144918/36f997ec-4931-41e2-a745-a5cccf67c146_nbtva6.gif)
+![Demo](https://res.cloudinary.com/hunghg255/image/upload/v1685594372/css2tailwindcss-demo_lzpyfi.gif)
 
 ## 1: Select css
 
