@@ -2,7 +2,7 @@
   "name": "css-2-tailwindcss",
   "displayName": "Convert CSS to Tailwindcss",
   "description": "Convert CSS to Tailwindcss",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "hunghg255",
   "engines": {
     "vscode": "^1.78.0"
