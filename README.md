@@ -1,6 +1,5 @@
 <p align="center">
 <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank" rel="noopener noreferrer">
-<img src="https://api.iconify.design/tabler:brand-vscode.svg?color=%23b4dafd" alt="logo" width='100'/></a>
 </p>
 
 <p align="center">
